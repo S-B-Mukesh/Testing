@@ -54,6 +54,7 @@ void main(){
 
 ![Whats app](https://www.freepnglogos.com/uploads/whatsapp-png-image-9.png)
 
-:relaxed::relaxed:
+:relaxed:
+:relaxed:
 
-<img scr="https://raw.githubusercontent.com/S-B-Mukesh/Testing/main/Screenshot%202021-06-04%20at%2012.40.27%20PM.png" width="250" height="250">
+<img src="https://raw.githubusercontent.com/S-B-Mukesh/Testing/main/Screenshot%202021-06-04%20at%2012.40.27%20PM.png" width="250" height="250">
